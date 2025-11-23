@@ -104,7 +104,7 @@ This case study demonstrates how data analytics can transform raw sales data int
 ![Dashboard](https://github.com/Kvenkatasai-18/Pizza-Sales-Dashboard/blob/main/pizza_sales_dashboard.png)
 
 <p align="center">
-  <a href="https://github.com/Kvenkatasai-18/Pizza-Sales-Dashboard/blob/main/pizza_sales_dashboard.xlsx" target="_blank">
+  <a href="https://1drv.ms/x/c/15fabfe5640a6581/EZk-D_PPFuFNnYRA96w6HUABxWjOE1Hm7fLFLXSRHI98pw?e=ouHB2f" target="_blank">
     <img src="https://img.shields.io/badge/View%20Live%20Dashboard-0076B6?style=for-the-badge&logo=tableau&logoColor=white" alt="View Live Dashboard"/>
   </a>
 </p>
