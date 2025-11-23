@@ -110,8 +110,7 @@ This case study demonstrates how data analytics can transform raw sales data int
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kvenkatasai-18/Pizza-Sales-Dashboard/blob/main/pizza_sales_dashboard.xlsx
-" target="_blank">
+  <a href="https://github.com/Kvenkatasai-18/Pizza-Sales-Dashboard/blob/main/pizza_sales_dashboard.xlsx"target="_blank">
     <img src="https://img.shields.io/badge/Download%20Excel%20File-185C37?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Download Excel File"/>
   </a>
 </p>
