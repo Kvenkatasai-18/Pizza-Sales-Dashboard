@@ -100,3 +100,6 @@ Reduce inventory wastage
 Optimize marketing campaigns
 
 This case study demonstrates how data analytics can transform raw sales data into actionable business intelligence for the food and restaurant industry
+
+![Dashboard](https://github.com/Kvenkatasai-18/Customer-Order_Insights_Dashboard--Excel/blob/be8d9404ed8cd7bedbf810d2bc62cc965ce3d155/Dashboard.png)
+
